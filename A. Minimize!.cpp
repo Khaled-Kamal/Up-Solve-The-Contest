@@ -17,6 +17,6 @@ signed main()
         cin >> a >> b ;
 
         cout << max(a , b ) - min(a , b) << '\n';
-        // cout << abs(a - b) << '\n';
+         cout << abs(a - b) << '\n';
     }
 }
